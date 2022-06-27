@@ -1,3 +1,6 @@
+## EX NO : 05
+## DATE : 23-05-2022
+
 # Hill Climbing Algorithm for Eight Queens Problem
 ## AIM
 
@@ -22,6 +25,9 @@ Display the necessary states and the time taken.
 
 
 ## PROGRAM
+## Developed by : Krishna Moorthy S
+## Register number : 212220230025
+
 ```python
 
 
